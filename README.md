@@ -33,10 +33,15 @@ Este projeto visa desenvolver um protótipo funcional que utiliza técnicas de V
 📁 Estrutura do Projeto
 
 IA-Challenge/
+
 ├── detector_motos.py
+
 ├── coco.names
+
 ├── videos/
+
 │   └── Video 1.mp4
+
 └── README.md
 
 -----------------------------
